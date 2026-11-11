@@ -24,7 +24,7 @@ team of 3 engineers at Softonix, where I also run the internal training program.
 | | |
 |---|---|
 | **Languages** | TypeScript, JavaScript (ES6+), SQL |
-| **Frontend** | Vue 3, Nuxt 4, Three.js, Pinia, TanStack Query, Tailwind CSS |
+| **Frontend** | React, Next.js, Vue 3, Nuxt 4, Three.js, Pinia, TanStack Query, Tailwind CSS |
 | **Backend** | Node.js, Fastify, Drizzle ORM, Prisma, PostgreSQL, Zod, OpenAPI |
 | **Cloud** | AWS (Lambda, SQS, Cognito, S3, KMS), Supabase, Vercel, Docker, CI/CD |
 | **Testing** | Vitest, Cypress, Sentry |
